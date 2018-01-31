@@ -1,0 +1,3 @@
+[submodule "tensorpack"]
+	path = tensorpack
+	url = https://github.com/ppwwyyxx/tensorpack/
